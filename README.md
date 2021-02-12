@@ -1,6 +1,6 @@
 
 # Just Do It
-
+![alt text](https://i.imgur.com/R3te5P4.png)
 ### Quick Links
 
 Rest API Documentation: [Here](doc/README.md)
